@@ -34,7 +34,7 @@ This theme is maintained by its author [Luiz de Prá](https://github.com/luizdep
 
 ## Sponsoring
 
-If you like my project or it was useful for you, consider supporting its development. Just:
+If you like my project or it was useful for you, consider supporting its development. Just fdsafsafd:
 
 <a href="https://www.buymeacoffee.com/luizdepra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
