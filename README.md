@@ -26,7 +26,7 @@ This theme is ready to import into Stackbit. This theme can be deployed to Netli
 
 ## License
 
-Coder is licensed under the [MIT license](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md).
+Coder is licensed under the [MIT license](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md) .
 
 ## Maintenance
 
