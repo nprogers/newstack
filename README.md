@@ -6,7 +6,7 @@ A simple and clean blog theme for [Hugo](https://gohugo.io/). dfasdfsa
 
 ## Live Demozzzz
 
-See [here](https://hugo-coder.netlify.app/).
+See [here](https://hugo-coder.netlify.app/).  .
 
 ## Quick Startz
 
