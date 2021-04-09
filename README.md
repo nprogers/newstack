@@ -32,7 +32,7 @@ Coder is licensed under the [MIT license](https://github.com/luizdepra/hugo-code
 
 This theme is maintained by its author [Luiz de Prá](https://github.com/luizdepra) with the help from these awesome [contributors](CONTRIBUTORS.md).
 
-## Sponsoring
+## Sponsoring dsfsfdsafds
 
 If you like my project or it was useful for you, consider supporting its development. Just fdsafsafd:
 
