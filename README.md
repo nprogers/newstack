@@ -28,7 +28,7 @@ This theme is ready to import into Stackbit. This theme can be deployed to Netli
 
 Coder is licensed under the [MIT license](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md) .
 
-## Maintenance
+## Maintenanceaaaa
 
 This theme is maintained by its author [Luiz de Prá](https://github.com/luizdepra) with the help from these awesome [contributors](CONTRIBUTORS.md).
 
