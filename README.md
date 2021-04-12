@@ -1,6 +1,6 @@
 ![Hugo Coder Logotype](https://github.com/luizdepra/hugo-coder/blob/master/images/logos/logotype-a.png)
 
-A simple and clesdfadsfasan blog theme for [Hugo](https://gohugo.io/). dfasdfsadflaksd;fkadjslfk
+sdfasdfaidsfadsfasdfaA simple and clesdfadsfasan blog theme for [Hugo](https://gohugo.io/). dfasdfsadflaksd;fkadjslfk
 
 ![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
 
